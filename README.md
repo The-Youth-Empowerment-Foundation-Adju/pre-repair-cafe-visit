@@ -27,7 +27,7 @@ b # Joice Konyio;
 # solution
 - replacement of the 10amps solar diode
 
-3. power regulator
+ 3. power regulator
 # fault
   - less power
   - output port burnt
@@ -44,13 +44,12 @@ b # Joice Konyio;
  - short circuit off the solar diode 10amps
  - solution ;replacement of the diode
  
-6.Two radios,all short circuit of the power transistors
+  6.Two radios,all short circuit of the power transistors
  
 7.Two lighting systems,the ones distributed by UNHCR.
  d # Ashraf Rabbi Abdallah
 
 8.Three solar panels
- 
 9. One replacing the solar diode 10amps,
 
 10.Two changing of charging pins,these are 3v solars,distributed UNHCR with blue lights,
