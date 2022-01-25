@@ -9,6 +9,30 @@ Visitation of the space by the technical personnel with the aim of registering a
 - To save time time during repair date
 
 # Details of devices registered
+# YEF
+
+1. led flat screen
+
+# fault
+  - short circuit,
+  capacitor 450v,68uf 
+
+# solution
+  - replacement of capacitor 450v,68uf
+
+
+2. power regulator
+  
+  # fault
+  - less power
+  - output port burnt
+  - TDA 7509 short circuit
+  
+  # solution 
+  - replacement of the output port
+  - Replacement of the TDA 7509 transistor.
+
+
 
                                 
                                                                            
