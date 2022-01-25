@@ -7,5 +7,8 @@ Visitation of the space by the technical personnel with the aim of registering a
 - It gives chance for the organisation to estimate the number of experts on the repair date,
   Thus reducing cost.
 - To save time time during repair date
+
 # Details of devices registered
-# device owner.                device details.                  device fault.              possible solution.
+
+# device owner.                     device details.                          device fault.                                    possible solution.
+- YEF                             - Led flat screen.                       - 
