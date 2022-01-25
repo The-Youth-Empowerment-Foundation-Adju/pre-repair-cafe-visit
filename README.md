@@ -28,8 +28,7 @@ Visitation of the space by the technical personnel with the aim of registering a
 - replacement of the 10amps solar diode
 
 3. power regulator
-  
-  # fault
+# fault
   - less power
   - output port burnt
   - TDA 7509 short circuit
@@ -38,6 +37,7 @@ Visitation of the space by the technical personnel with the aim of registering a
   - replacement of the output port
   - Replacement of the TDA 7509 transistor.
  4. Three radios, one wiring,one transistor,and the other station box replacement.
+ # Chandia flora
   
 
 
