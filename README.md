@@ -10,10 +10,5 @@ Visitation of the space by the technical personnel with the aim of registering a
 
 # Details of devices registered
 
-# device owner.                     device details.                          device fault.                                    possible solution.
-
-1 . YEF                           - Led flat screen.                       - Capacitor 450v,68uf blown                       - Replacement
-                                  - power regulator                        - Transistor TDA 7509                             - Replacement2.
-
-2.Joice konyio                    - 20w solar panel                        - Short circuit                                   - Diode replacement                                 
+                                
                                                                            
