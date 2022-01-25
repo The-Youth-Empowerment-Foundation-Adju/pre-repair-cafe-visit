@@ -9,7 +9,7 @@ Visitation of the space by the technical personnel with the aim of registering a
 - To save time time during repair date
 
 # Details of devices registered
-# YEF;
+a # YEF;
 
 1. led flat screen
 
@@ -20,7 +20,7 @@ Visitation of the space by the technical personnel with the aim of registering a
 # solution
   - replacement of capacitor 450v,68uf
 
-# Joice Konyio;
+b # Joice Konyio;
 2.20w solar pannel
 # fault
 - short circuit
@@ -37,7 +37,7 @@ Visitation of the space by the technical personnel with the aim of registering a
   - replacement of the output port
   - Replacement of the TDA 7509 transistor.
  4. Three radios, one wiring,one transistor,and the other station box replacement.
- # Chandia flora
+ c # Chandia flora
  
  5.18w solar panel
  
@@ -47,8 +47,7 @@ Visitation of the space by the technical personnel with the aim of registering a
 6.Two radios,all short circuit of the power transistors
  
 7.Two lighting systems,the ones distributed by UNHCR.
- 
-# Ashraf Rabbi Abdallah
+ d # Ashraf Rabbi Abdallah
 
 8.Three solar panels
  
@@ -58,7 +57,7 @@ Visitation of the space by the technical personnel with the aim of registering a
 
 11. one fm radio with a wiring 
 
-# Lagu Moses
+e # Lagu Moses
 
 12.Registered a bicycle,the brake system missing,peddles missing
    solution
