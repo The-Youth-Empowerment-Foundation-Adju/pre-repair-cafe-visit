@@ -42,12 +42,19 @@ Visitation of the space by the technical personnel with the aim of registering a
  5.18w solar panel
  - short circuit off the solar diode 10amps
  - solution ;replacement of the diode
- 6.Two radios,all short circuit of the power transistors
- 7.Two lighting systems,the ones distributed by UNHCR.
- # Ashraf Rabbi Abdallah
+ 
+6.Two radios,all short circuit of the power transistors
+ 
+7.Two lighting systems,the ones distributed by UNHCR.
+ 
+# Ashraf Rabbi Abdallah
+
 8.Three solar panels
+
 9. One replacing the solar diode 10amps,
+
 10.Two changing of charging pins,these are 3v solars,distributed UNHCR with blue lights,
+
 11. one fm radio with a wiring 
  # Lagu Moses
 12.Registered a bicycle,the brake system missing,peddles missing
